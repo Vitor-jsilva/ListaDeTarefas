@@ -61,6 +61,5 @@ public class tarefaTeste {
 	   assertTrue(lista.get(0).retornaTarefaCompleta(data.getData()).equals("tarefa: ir ao mercado\nData limite: 10/6/2025\nstatus: Pendente\n\n"));
 	}
 	
-	//Lista de Tarefas
 
 }
